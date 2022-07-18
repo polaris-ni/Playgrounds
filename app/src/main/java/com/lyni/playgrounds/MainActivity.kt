@@ -1,11 +1,8 @@
 package com.lyni.playgrounds
 
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
+import com.lyni.playgrounds.common.base.ui.BaseActivity
+import com.lyni.playgrounds.common.base.vm.BaseViewModel
+import com.lyni.playgrounds.databinding.ActivityMainBinding
 
-class MainActivity : AppCompatActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-    }
+class MainActivity : BaseActivity<ActivityMainBinding, BaseViewModel>() {
 }

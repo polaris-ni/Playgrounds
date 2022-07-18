@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">加载中</string>
+    <string name="refresh">刷新</string>
+    <string name="setting">设置</string>
+    <string name="text_00001">空空如也</string>
+    <string name="text_00002">这里什么都没有哦~</string>
+    <string name="text_00003">出错啦</string>
+    <string name="text_00004">页面加载出现了一些小问题，请稍后重试~</string>
+</resources>

@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/bizAnimation/src/main/res/layout/animation_activity_translation.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_12_2b8fec.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_12_e8f3ff.xml" value="0.1" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_12_f8f8f8.xml" value="0.1" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_12_ffffff.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_16_2b8fec.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_16_f8f8f8.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_16_ffffff.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_24_f8f8f8.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_24_ffffff.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_8_f8f8f8.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_8_ffffff.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_bg_8_gray_deep.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_ic_arrow_left_24.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_ic_done_24.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_ic_done_blue_24.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_ic_empty_96.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/drawable/common_ic_more_24.xml" value="0.167" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/font/font.xml" value="0.26614583333333336" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_activity_root.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_dialog_loading.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_fragment_root.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_layout_custom_holder.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_layout_footer.xml" value="0.2359375" />
+        <entry key="..\:/Data/Projects/AndroidStudioProjects/Playgrounds/common/src/main/res/layout/common_layout_toolbar.xml" value="0.2359375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

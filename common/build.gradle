@@ -9,4 +9,19 @@ dependencies {
     api 'androidx.appcompat:appcompat:1.4.2'
     api 'com.google.android.material:material:1.6.1'
     api 'androidx.constraintlayout:constraintlayout:2.1.4'
+    api 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1'
+    api 'androidx.lifecycle:lifecycle-runtime-ktx:2.4.1'
+    api 'com.github.polaris-ni:Treasure:1.0.0-alpha9'
+    // recycler view
+    api 'androidx.recyclerview:recyclerview:1.2.1'
+    // kotlin coroutine
+    api 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.3'
+    // 防止数据倒灌的liveData
+    api 'com.kunminx.arch:unpeek-livedata:7.2.0-beta1'
+    // smart refresh layout
+    api 'io.github.scwang90:refresh-layout-kernel:2.0.5'
+    // 万能适配器
+    api 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.7'
+    // lottie
+    api 'com.airbnb.android:lottie:5.2.0'
 }
