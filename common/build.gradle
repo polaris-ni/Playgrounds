@@ -1,0 +1,12 @@
+plugins {
+    id 'com.android.library'
+}
+
+apply from: '../common_apply.gradle'
+
+dependencies {
+    api 'androidx.core:core-ktx:1.8.0'
+    api 'androidx.appcompat:appcompat:1.4.2'
+    api 'com.google.android.material:material:1.6.1'
+    api 'androidx.constraintlayout:constraintlayout:2.1.4'
+}

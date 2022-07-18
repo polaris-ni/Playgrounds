@@ -1,0 +1,9 @@
+plugins {
+    id 'com.android.application'
+}
+
+apply from: '../common_apply.gradle'
+
+dependencies {
+    implementation project(':common')
+}
